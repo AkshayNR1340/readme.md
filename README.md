@@ -1,4 +1,4 @@
-![]https://media1.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif?cid=ecf05e47wsr3t6anbzr2sjkje7gpmndy2e4cs0hjuwvdsywv&ep=v1_gifs_search&rid=giphy.gif&ct=g
+![](https://media1.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif?cid=ecf05e47wsr3t6anbzr2sjkje7gpmndy2e4cs0hjuwvdsywv&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 <h1 align="center">Hi 👋, I'm Akshay N R</h1>
 <h3 align="center">A passionate Data Scientist/Analyst.</h3>
 
