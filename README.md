@@ -1,46 +1,35 @@
-![avento](https://user-images.githubusercontent.com/104050919/230783315-438c3860-d944-4344-966f-6d2e032fb8bc.gif)
-
-![logo](https://github.com/AkshayNR1340/AkshayNR1340/blob/main/full-stack-development.gif)
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AkshayNR1340&label=Profile%20views&color=0e75b6&style=flat" alt="AkshayNR1340" /> </p>
-
 <h1 align="center">Hi 👋, I'm Akshay N R</h1>
-<p align="center"> 
-  <a href="https://github.com/AkshayNR1340"><img src="https://readme-typing-svg.demolab.com?font=&color=%23F7008F&lines=Student+%2F;%F0%9F%96%A5+An Aspiring+Data Scientist;%F0%9F%96%A5+Active+OpenSource+Contributor"></a>
+<h3 align="center">A passionate Data Scientist/Analyst.</h3>
 
-<!-- </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayNR1340&" alt="AkshayNR1340" /></p>"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AkshayNR1340&label=Profile%20views&color=0e75b6&style=flat" alt="AkshayNR1340" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaynr1340&label=Profile%20views&color=0e75b6&style=flat" alt="akshaynr1340" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AkshayNR1340" alt="AkshayNR1340" /></a> </p>
- -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaynr1340" alt="akshaynr1340" /></a> </p>
 
+- 🔭 I’m currently working on **Resume_Classification**
 
-- 🌱 I’m currently learning *ML & AI*
+- 🌱 I’m currently learning **ML & AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AkshayNR1340](https://github.com/AkshayNR1340)
+- 👯 I’m looking to collaborate on **Github**
 
-- 📫 How to reach me *rebel9646@gmail.com*
+- 💬 Ask me about **MySQL,ML,Tableau,PowerBI**
 
-- 📄 Know about my skill
+- 📫 How to reach me **rebel9646@gmail.com**
 
+- ⚡ Fun fact **I can sleep for longer period.**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/akshay-n-r-8babb325a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay-n-r-8babb325a" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### Languages and Tools
-<div style="display: float">
-<img alt="Python"  src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=Python&logoColor=FFFFFF&label=" /> 
-  <img alt="Jupyter Notebook" src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=Jupyter&logoColor=FFFFFF&label=" />  
-  <img alt="Github" src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=Github&logoColor=F7DF1E&label=" /> 
-  <img alt="Tableau"  src="https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=Tableau&logoColor=FFFFFF&label=" > 
-  <img alt="PowerBI"  src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=PowerBI&logoColor=FFFFFF&label=" /> 
-<img  alt="Windows" src="https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=" />
-<img alt="MySQL" src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=MySQL&logoColor=FFFFFF&label=" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaynr1340&show_icons=true&locale=en&layout=compact" alt="akshaynr1340" /></p>
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Github Actions](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) ![FreecodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaynr1340&show_icons=true&locale=en" alt="akshaynr1340" /></p>
 
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaynr1340&" alt="akshaynr1340" /></p>
  
 ### Github Stats:
 
